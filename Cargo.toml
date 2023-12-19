@@ -5,6 +5,9 @@ edition = "2021"
 description = "Abstraction layer for interfacing between raspberry pi and the lcd1602 - 16x2 lcd display module through GPIO"
 readme = "README.md"
 license = "MIT"
+exclude = ["imgs/"]
+keywords = ["raspberry-pi", "gpio", "lcd", "embedded", "device-interface"]
+categories = ["embedded", "hardware-support"]
 
 [lib]
 name = "lcd1602_gpio"
