@@ -8,6 +8,8 @@ Uses a total of 8 pins: 1 - +5v output, 1 - ground and 6 - GPIO connections
 
 Communication is done by sending 4 bits twice to represent a single 8 bit character, ASCII symbol or instruction/command- 
 
+[crates.io](https://crates.io/crates/lcd1602_gpio)
+
 ## Table of contents
 
 - [lcd1602\_gpio](#lcd1602_gpio)

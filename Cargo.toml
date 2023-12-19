@@ -8,6 +8,7 @@ license = "MIT"
 exclude = ["imgs/"]
 keywords = ["raspberry-pi", "gpio", "lcd", "embedded", "device-interface"]
 categories = ["embedded", "hardware-support"]
+repository = "https://github.com/t4skmanag3r/lcd1602_gpio"
 
 [lib]
 name = "lcd1602_gpio"
